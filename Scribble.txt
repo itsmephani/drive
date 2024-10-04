@@ -1,0 +1,1 @@
+https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/2.0.2/OpenCore-Patcher-GUI.app.zip
